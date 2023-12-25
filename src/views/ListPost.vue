@@ -1,5 +1,5 @@
 <template>
-    <div>List post</div>
+    <div>List post sdgdsfgsd</div>
 </template>
 
 <script>
